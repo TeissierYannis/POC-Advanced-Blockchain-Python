@@ -1,0 +1,4 @@
+.idea
+BC-1.iml
+.pytest_cache
+**/__pycache__/**

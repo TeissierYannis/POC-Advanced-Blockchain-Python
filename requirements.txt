@@ -1,0 +1,12 @@
+requests
+Flask[async]
+ecdsa
+bip-utils
+Mnemonic
+base58
+Web3
+#quartz
+httpx
+hypercorn
+pyobjc-framework-Quartz
+pyobjc-core
